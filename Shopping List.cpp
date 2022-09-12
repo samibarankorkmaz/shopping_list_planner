@@ -1,6 +1,6 @@
 /*
 Sami Baran KORKMAZ
-1306191447
+
 Shopping List Planner
 
 Description of the project:
